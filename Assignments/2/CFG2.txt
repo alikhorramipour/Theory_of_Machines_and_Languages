@@ -1,0 +1,7 @@
+V:S,A,B
+T:a,b
+S:S
+P: 
+S -> abAB
+A -> bAB|$
+B -> BAa|A|$
